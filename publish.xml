@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAppInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppInfo Name="New Application" Order="Up" StayVersion="1.0.0.1" FolderPath="1h98xuoZLrQVcVz7tHir_usc_7RPtlh4p" AppId="1ac543cc-2bb4-4908-8b97-e11dd8d3632a" PrePath="https://raw.githubusercontent.com/HaaniCodes/MyPublish/master/1ac543cc-2bb4-4908-8b97-e11dd8d3632a/">
+    <Versions>
+      <VersionInfo Version="1.0.0.0" FilePath="New Application_v1.0.0.0.pff">
+        <Message>0버전</Message>
+      </VersionInfo>
+      <VersionInfo Version="1.0.0.1" FilePath="New Application_v1.0.0.1.pff">
+        <Message>1버전 로그</Message>
+      </VersionInfo>
+      <VersionInfo Version="1.0.0.2" FilePath="New Application_v1.0.0.2.pff">
+        <Message>2version Log</Message>
+      </VersionInfo>
+      <VersionInfo Version="1.0.0.3" FilePath="New Application_v1.0.0.3.pff">
+        <Message>버전3 Logs</Message>
+      </VersionInfo>
+    </Versions>
+  </AppInfo>
+  <AppInfo Name="AhkTest" Order="Up" StayVersion="1.0.0.2" AppId="db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70" PrePath="https://raw.githubusercontent.com/HaaniCodes/MyPublish/master/db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70/">
+    <Versions>
+      <VersionInfo Version="1.0.0.0" FilePath="AhkTest_v1.0.0.0.pff">
+        <Message>ahk 0</Message>
+      </VersionInfo>
+      <VersionInfo Version="1.0.0.1" FilePath="AhkTest_v1.0.0.1.pff">
+        <Message>ahk 1</Message>
+      </VersionInfo>
+      <VersionInfo Version="1.0.0.2" FilePath="AhkTest_v1.0.0.2.pff">
+        <Message>ahk 2</Message>
+      </VersionInfo>
+    </Versions>
+  </AppInfo>
+</ArrayOfAppInfo>
