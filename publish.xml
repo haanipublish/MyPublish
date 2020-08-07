@@ -27,7 +27,6 @@
       <VersionInfo Version="1.0.0.2" FilePath="AhkTest_v1.0.0.2.pff">
         <Message>ahk 2</Message>
       </VersionInfo>
-      <VersionInfo Version="1.0.0.3" />
     </Versions>
   </AppInfo>
 </ArrayOfAppInfo>
