@@ -16,7 +16,7 @@
       </VersionInfo>
     </Versions>
   </AppInfo>
-  <AppInfo Name="AhkTest" Order="Up" StayVersion="1.0.0.2" AppId="db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70" PrePath="https://raw.githubusercontent.com/HaaniCodes/MyPublish/master/db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70/">
+  <AppInfo Name="AhkTest" Order="Up" StayVersion="1.0.0.1" AppId="db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70" PrePath="https://raw.githubusercontent.com/HaaniCodes/MyPublish/master/db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70/">
     <Versions>
       <VersionInfo Version="1.0.0.0" FilePath="AhkTest_v1.0.0.0.pff">
         <Message>ahk 0</Message>
