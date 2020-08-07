@@ -29,7 +29,4 @@
       </VersionInfo>
     </Versions>
   </AppInfo>
-  <AppInfo Name="New Applicationa" Order="Up" StayVersion="1.0.0.0" AppId="bb6f583a-3167-4b23-8e0b-bd87ef21639b" PrePath="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/bb6f583a-3167-4b23-8e0b-bd87ef21639b/">
-    <Versions />
-  </AppInfo>
 </ArrayOfAppInfo>
