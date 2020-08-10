@@ -11,9 +11,6 @@
       <VersionInfo Version="1.0.0.2" FilePath="New Application_v1.0.0.2.pff">
         <Message>2version Log</Message>
       </VersionInfo>
-      <VersionInfo Version="1.0.0.3" FilePath="New Application_v1.0.0.3.pff">
-        <Message>버전3 Logs</Message>
-      </VersionInfo>
     </Versions>
   </AppInfo>
   <AppInfo Name="AhkTest" Order="Up" StayVersion="1.0.0.1" AppId="db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70" PrePath="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/db7cf484-e9cb-4f2c-8bc0-15b8aa6abd70/">
