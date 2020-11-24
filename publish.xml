@@ -9,7 +9,7 @@
   <AppInfo Name="RythmWorker" Order="Up" StayVersion="1.0.0.0" AppId="46444c4f-5bc6-476b-9dc6-1619a5ca6f4f" PrePath="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/46444c4f-5bc6-476b-9dc6-1619a5ca6f4f/">
     <Versions />
   </AppInfo>
-  <AppInfo Name="TestApp" Order="Stop" StayVersion="1.0.0.2" AppId="67e6ae0e-7c36-464a-bfca-213daf3348ec" PrePath="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/67e6ae0e-7c36-464a-bfca-213daf3348ec/">
+  <AppInfo Name="TestApp" Order="Up" StayVersion="1.0.0.2" AppId="67e6ae0e-7c36-464a-bfca-213daf3348ec" PrePath="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/67e6ae0e-7c36-464a-bfca-213daf3348ec/">
     <Versions>
       <VersionInfo Version="1.0.0.2" FilePath="TestApp_v1.0.0.2.pff">
         <Message>my app</Message>
