@@ -16,4 +16,5 @@
       </VersionInfo>
     </Versions>
   </AppInfo>
+  <AppInfo Name="MabiWorker" Order="Up" StayVersion="1.0.0.0" AppId="1b1644d4-5105-4221-866a-175ded34174f" PrePath="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/1b1644d4-5105-4221-866a-175ded34174f/" />
 </ArrayOfAppInfo>
