@@ -3,7 +3,7 @@
   <App Name="New Application" Id="8831fbc3-eec7-4caf-91ba-33543fa07456" CurrentVersion="1.0.0.0">
     <Files>
       <File Version="1.0.0.0" Path="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/8831fbc3-eec7-4caf-91ba-33543fa07456/New Application_v1.0.0.0.pff" />
-      <File Version="1.0.0.1" />
+      <File Version="1.0.0.1" Path="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/8831fbc3-eec7-4caf-91ba-33543fa07456/New Application_v1.0.0.1.pff" />
     </Files>
   </App>
 </MyApps>
