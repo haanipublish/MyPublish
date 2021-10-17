@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MyApps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <App Name="New Application" Id="8831fbc3-eec7-4caf-91ba-33543fa07456" CurrentVersion="1.0.0.0">
+  <App Name="New 한글 Application" Id="8831fbc3-eec7-4caf-91ba-33543fa07456" CurrentVersion="1.0.0.0">
     <Files>
       <File Version="1.0.0.0" Path="https://raw.githubusercontent.com/HaaniPublish/MyPublish/master/8831fbc3-eec7-4caf-91ba-33543fa07456/New Application_v1.0.0.0.pff" />
     </Files>
