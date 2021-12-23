@@ -9,6 +9,8 @@
     </Files>
   </App>
   <App Name="pdf2hwp" Id="040054ab-195b-49ec-9df9-955785e9558f" CurrentVersion="1.0.0.1">
-    <File Version="1.0.0.1" Path="https://github.com/haanipublish/pdf2hwp/releases/download/pdf2hwp/pdf2hwp_v1.0.0.1.7z" />
+    <Files>
+      <File Version="1.0.0.1" Path="https://github.com/haanipublish/pdf2hwp/releases/download/pdf2hwp/pdf2hwp_v1.0.0.1.7z" />
+    </Files>
   </App>
 </MyApps>
