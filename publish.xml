@@ -12,6 +12,7 @@
     <Files>
       <File Version="1.0.0.0" Path="https://github.com/haanipublish/pdf2hwp/releases/download/pdf2hwp/pdf2hwp_v1.0.0.0.7z" />
       <File Version="1.0.0.1" Path="https://github.com/haanipublish/pdf2hwp/releases/download/v1.0.0.1/pdf2hwp_v1.0.0.1.7z" />
+      <File Version="1.0.0.2" Path="https://github.com/haanipublish/pdf2hwp/releases/download/v1.0.0.2/pdf2hwp.7z" />
     </Files>
   </App>
   <App Name="mapCapture" Id="6FBD615C-1B0E-4155-A11B-5F1AFC5B324B" CurrentVersion="1.0.0.0">
