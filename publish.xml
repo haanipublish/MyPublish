@@ -17,7 +17,7 @@
   </App>
   <App Name="mapCapture" Id="6FBD615C-1B0E-4155-A11B-5F1AFC5B324B" CurrentVersion="1.0.0.0">
     <Files>
-      <File Version="1.0.0.0" Path="" />
+      <File Version="1.0.0.0" Path="https://github.com/haanipublish/mapcapture/releases/download/v1.0.0.0/mapCapture.7z" />
     </Files>
   </App>
 
