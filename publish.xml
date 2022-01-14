@@ -21,10 +21,11 @@
       <File Version="1.0.0.1" Path="https://github.com/haanipublish/mapcapture/releases/download/v1.0.0.1/mapCapture.7z" />
     </Files>
   </App>
-  <App Name="cropImage" Id="C47BACE9-ED1A-4F8F-B32B-28D7BEC63D1D" CurrentVersion="1.0.0.1">
+  <App Name="cropImage" Id="C47BACE9-ED1A-4F8F-B32B-28D7BEC63D1D" CurrentVersion="1.0.0.2">
     <Files>
       <File Version="1.0.0.0" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.0/cropImage.7z" />
       <File Version="1.0.0.1" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.1/cropImage.7z" />
+      <File Version="1.0.0.2" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.2/cropImage.7z" />
     </Files>
   </App>
 
