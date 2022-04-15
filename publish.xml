@@ -38,6 +38,11 @@
       <File Version="1.0.0.3" Path="https://github.com/haanipublish/flirviewer/releases/download/v1.0.0.3/FLIRViewer.7z" />
     </Files>
   </App>
+  <App Name="powerTimer" Id="3FF57142-E6D1-4258-8E67-F3CBE5677D3E" CurrentVersion="1.0.0.0">
+    <Files>
+      <File Version="1.0.0.0" Path="https://github.com/haanipublish/powerTimer/releases/download/v1.0.0.0/powerTimer.7z" />
+    </Files>
+  </App>
 
   <!-- <App Name="" Id="" CurrentVersion="1.0.0.0">
     <Files>
