@@ -29,6 +29,7 @@
       <File Version="1.0.0.2" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.2/cropImage.7z" />
       <File Version="1.0.0.3" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.3/cropImage.7z" />
       <File Version="1.0.0.4" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.4/cropImage.7z" />
+      <File Version="1.0.0.5" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.5/cropImage.7z" />
     </Files>
   </App>
   <App Name="FLIRViewer" Id="AA32D1E9-1F0E-4F62-94EC-50BC7D7B55CB" CurrentVersion="1.0.0.5">
