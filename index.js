@@ -60,7 +60,12 @@ function showAppList() {
     let state = store.getState();
     if (state.page != 'front')
         return;
-    let title = '<h1>Haani Publish</h1>';
+    let nav = `
+    <nav><ul class='nav-menu'>
+    <li><a href='https://haanipublish.github.io/MyPublish/'>Haani</a></li>
+    <li><a href='https://dukson1224.github.io/mypublish/'>DukSon</a></li>
+    </ul></nav>`;
+    let title = `${nav}<h1>Haani Publish</h1>`;
     let apps = state.apps;
     let rows = [];
     apps.forEach(info => {
@@ -91,7 +96,12 @@ function showAppDetail() {
     let info = state.apps.find(ai => ai.id == state.selectedAppId);
     if (!info)
         return;
-    let title = `<h1><a href="#!applist" class="backbutton" onclick="event.preventDefault(); store.dispatch({ type: 'APP_SELECTED', selectedAppId: undefined })">a</a></h1><h1>${info.name}</h1>`;
+    let nav = `
+    <nav><ul class='nav-menu'>
+    <li><a href='https://haanipublish.github.io/MyPublish/'>Haani</a></li>
+    <li><a href='https://dukson1224.github.io/mypublish/'>DukSon</a></li>
+    </ul></nav>`;
+    let title = `${nav}<h1><a href="#!applist" class="backbutton" onclick="event.preventDefault(); store.dispatch({ type: 'APP_SELECTED', selectedAppId: undefined })">a</a></h1><h1>${info.name}</h1>`;
     let rows = [];
     info.files.forEach(fi => {
         rows.push(`<tr>

@@ -54,3 +54,19 @@ th {
 .backbutton {
     font-family: uiFont;
 }
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+}
+
+nav li {
+    margin-right: 10px;
+}
+
+.nav-menu li:not(:last-child)::after {
+    content: "|";
+    margin-left: 10px;
+}
