@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'baseFont';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'titleFont';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/BinggraeMelona-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'uiFont';
+    src: url('./asset/aristotelica.icons-light.ttf');
+}
+
+* {
+    font-family: baseFont;
+}
+
+body {
+    background-color: #333333;
+    color: #fdfdfd;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: titleFont;
+}
+
+a {
+    color: bisque;
+}
+
+a:visited {
+    color: burlywood;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #666666;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border-top: 1px solid #666666;
+    border-bottom: 1px solid #666666;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.backbutton {
+    font-family: uiFont;
+}
