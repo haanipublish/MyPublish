@@ -24,7 +24,7 @@
       <File Version="1.0.0.5" Path="https://github.com/haanipublish/cropImage/releases/download/v1.0.0.5/cropImage.7z" />
     </Files>
   </App>
-  <App Name="FLIRViewer" Id="AA32D1E9-1F0E-4F62-94EC-50BC7D7B55CB" CurrentVersion="1.0.0.6">
+  <App Name="FLIRViewer" Id="AA32D1E9-1F0E-4F62-94EC-50BC7D7B55CB" CurrentVersion="1.0.0.7">
     <Files>
       <File Version="1.0.0.0" Path="https://github.com/haanipublish/flirviewer/releases/download/v1.0.0.0/FLIRViewer.7z" />
       <File Version="1.0.0.1" Path="https://github.com/haanipublish/flirviewer/releases/download/v1.0.0.1/FLIRViewer.7z" />
@@ -33,6 +33,7 @@
       <File Version="1.0.0.4" Path="https://github.com/haanipublish/flirviewer/releases/download/v1.0.0.4/FLIRViewer.7z" />
       <File Version="1.0.0.5" Path="https://github.com/haanipublish/flirviewer/releases/download/v1.0.0.5/FLIRViewer.7z" />
       <File Version="1.0.0.6" Path="https://github.com/haanipublish/flirviewer/releases/download/v1.0.0.6/FLIRViewer.7z" />
+      <File Version="1.0.0.7" Path="https://github.com/haanipublish/flirviewer/releases/download/v1.0.0.7/FLIRViewer.7z" />
     </Files>
   </App>
   <App Name="powerTimer" Id="3FF57142-E6D1-4258-8E67-F3CBE5677D3E" CurrentVersion="1.0.0.0">
